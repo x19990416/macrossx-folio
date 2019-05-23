@@ -10,6 +10,19 @@
 
 ## **架构**
 - Okapi
+
+- - proxy  
+      `/_/proxy` 配置代理服务
+      
+- - discovery  
+`/_/discovery` 服务发现
+
+- - deployment  
+`/_/deployment` 模块部署
+
+- - env  
+`/_/env` 环境变量
+
 - Security
 
 
