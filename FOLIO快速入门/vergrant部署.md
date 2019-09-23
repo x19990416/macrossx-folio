@@ -22,4 +22,4 @@ vagrant up
 ```
 vagran会自动下载 folio镜像
 
-![GitHub](https://github.com/x19990416/macrossx-folio-knowledge-map/blob/master/FOLIO%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/vagrant_2.png "vargrant_2")
+![GitHub](https://github.com/x19990416/macrossx-folio-knowledge-map/blob/master/FOLIO%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/images/vagrant_2.png "vargrant_2")
