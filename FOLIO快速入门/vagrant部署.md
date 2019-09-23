@@ -1,4 +1,7 @@
-FOLIO提供基于vargrant的虚拟化环境，可于https://app.vagrantup.com/folio 下查看folio相关的版本信息，在Ubuntu上以vargrant方式部署需要参照以下步骤： 
+> 1. https://github.com/folio-org/folio-install/tree/master/runbooks/single-server
+>  2. https://app.vagrantup.com/folio
+
+FOLIO提供基于vargrant的单节点部署环境，可于https://app.vagrantup.com/folio 下查看folio相关的版本信息，在Ubuntu上以vargrant方式部署需要参照以下步骤： 
 
 1. 安装 VirtualBox  
 ```
