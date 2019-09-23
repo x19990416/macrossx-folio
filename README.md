@@ -15,8 +15,8 @@
 
 ## FOLIO 快速入门
 - [环境介绍](./FOLIO快速入门/环境介绍.md)
-- [快速部署FOLIO](./FOLIO快速入门/vergrant部署.md)
-- 
+- 快速部署FOLIO
+- - [vagrant部署](./FOLIO快速入门/vergrant部署.md)
 
 ## **架构**
 - Okapi
