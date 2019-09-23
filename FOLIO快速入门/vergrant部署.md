@@ -14,5 +14,6 @@ sudo apt-get install vagrant
 ```
 vagrant init folio/Q1-2019
 ```  
+![GitHub](https://github.com/x19990416/macrossx-folio-knowledge-map/blob/master/FOLIO%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/%E5%9B%BE%E7%89%87.png "vargrant_1")
 
    
