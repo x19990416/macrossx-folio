@@ -16,7 +16,8 @@
 ## FOLIO 快速入门
 - [环境介绍](./FOLIO快速入门/环境介绍.md)
 - 快速部署FOLIO
-    - [vagrant部署](./FOLIO快速入门/vergrant部署.md)
+  FOLIO推荐采用Docker部署，通过Docker可以按需部署模块。同时也提供Vagrant的完整镜像。
+    - [vagrant部署](./FOLIO快速入门/vagrant部署.md)
 
 ## **架构**
 - Okapi
