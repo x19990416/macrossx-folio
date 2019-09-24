@@ -18,6 +18,7 @@
 - 快速部署FOLIO  
   FOLIO推荐采用Docker部署，通过Docker可以按需部署模块。同时也提供Vagrant的完整镜像。
   - [vagrant部署](./FOLIO快速入门/vagrant部署.md)
+  - [Docker部署](./FOLIO快速入门/docker部署.md)
 
 ## **架构**
 - Okapi
