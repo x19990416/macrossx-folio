@@ -1,6 +1,7 @@
 > - https://hub.docker.com/u/folioorg/  
 > - https://hub.docker.com/r/folioci/  
 > - https://github.com/folio-org/okapi/tree/master/okapi-core
+> - https://github.com/folio-org/okapi/blob/master/doc/guide.md#okapi-program
 
 
 folio的docker镜像可以从 https://hub.docker.com/u/folioorg/  此处获取。
