@@ -27,3 +27,10 @@ vagrant up
 vagran会自动下载 folio镜像
 
 ![GitHub](https://github.com/x19990416/macrossx-folio-knowledge-map/blob/master/FOLIO%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/images/vagrant_2.png "vargrant_2")
+![GitHub](https://github.com/x19990416/macrossx-folio-knowledge-map/blob/master/FOLIO%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/images/vagrant_3.png "vargrant_3")
+
+运行完毕在地址栏中输入
+```
+http://127.0.0.1:3000
+```
+可看到FOLIO的登录界面
