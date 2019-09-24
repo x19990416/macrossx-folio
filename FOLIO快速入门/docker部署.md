@@ -16,8 +16,8 @@ folio的docker镜像可以从 https://hub.docker.com/u/folioorg/  此处获得�
    安装GPG证书
   ```
   curl -fsSL http://mirrors.aliyun.com/docker-ce/linux/ubuntu/gpg | sudo apt-key add -  
-  ```
-   写入软件源信息
+   ```
+  写入软件源信息
   ```
   sudo add-apt-repository "deb [arch=amd64] http://mirrors.aliyun.com/docker-ce/linux/ubuntu $(lsb_release -cs) stable"
   ```
@@ -26,5 +26,5 @@ folio的docker镜像可以从 https://hub.docker.com/u/folioorg/  此处获得�
   sudo apt-get -y update
   sudo apt-get -y install docker-ce
   ```
-  2. 安装Okapi
+2. 安装Okapi
   
