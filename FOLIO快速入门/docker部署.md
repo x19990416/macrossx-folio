@@ -27,4 +27,6 @@ folio的docker镜像可以从 https://hub.docker.com/u/folioorg/  此处获取�
   sudo apt-get -y install docker-ce
   ```
 2. 安装Okapi
-  
+  ```
+  sudo docker pull folioorg/okapi
+  ```
