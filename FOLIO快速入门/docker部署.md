@@ -59,6 +59,23 @@ folio的docker镜像可以从 https://hub.docker.com/u/folioorg/  此处获取�
     表明Okapi 已经运行。
    
    ```
-3. 安装其他模块
-  
-  
+3. 以数据库存储方式运行Okapi——以PostgreSQL为例
+    获取PostgreSQL镜像
+    ```
+    sudo docker pull postgres
+    ```
+    运行postgreSQL数据库，并创建okapi用户及数据库
+    ```
+    sudo docker run -e POSTGRES_USER=okapi -e POSTGRES_PASSWORD=okapi -e POSTGRES_DB=okapi -d -p 5432:5432 postgres
+    ```
+    查看数据库运行情况
+    ```
+    sudo docker ps -a
+    ```
+    结果如下
+    ![github](./images/docker_3.png)  
+    以数据库存储方式运行Okapi
+    ```
+    sudo docker run -p 9130:9130 -e JAVA_OPTIONS="-Dloglevel=DEBUG -Dstorage=postgres -Dostgres_username=okapi -Dpostgres_password=okapi -Dpostgres_database=okapi -Dpostgres_host=192.168.75.131" folioorg/okapi cluster
+    ```
+    
