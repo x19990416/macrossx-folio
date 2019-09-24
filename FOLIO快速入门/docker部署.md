@@ -78,5 +78,5 @@ folio的docker镜像可以从 https://hub.docker.com/u/folioorg/  此处获取�
     ```
     sudo docker run -p 9130:9130 -e JAVA_OPTIONS="-Dloglevel=DEBUG -Dstorage=postgres -Dostgres_username=okapi -Dpostgres_password=okapi -Dpostgres_database=okapi -Dpostgres_host=192.168.75.131" folioorg/okapi cluster
     ```
-      ![github](./images/docker_4.png) 
+    ![github](./images/docker_4.png)  
     
