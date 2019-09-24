@@ -2,7 +2,7 @@
 > - https://hub.docker.com/r/folioci/ 快照版
 
 
-folio的docker镜像可以从 https://hub.docker.com/u/folioorg/  此处获得。
+folio的docker镜像可以从 https://hub.docker.com/u/folioorg/  此处获取。
 
 在Ubuntu上以Docker方式部署需要参照以下步骤： 
 
