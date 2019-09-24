@@ -36,7 +36,7 @@ folio的docker镜像可以从 https://hub.docker.com/u/folioorg/  此处获取�
   ```
   sudo docker images
   ```
-  ![github](./images/docker_1.png)
+  ![github](./images/docker_1.png)  
   运行镜像，此处以集群方式运行(cluster)可以使用dev模式
   ```
   sudo docker run -p 9130:9130 -e JAVA_OPTIONS="-Dloglevel=DEBUG" folioorg/okapi cluster
