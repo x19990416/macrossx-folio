@@ -8,7 +8,7 @@ folio的docker镜像可以从 https://hub.docker.com/u/folioorg/  此处获得�
 
 1. 安装Docker  
 
-   安装docker必要工具
+安装docker必要工具
   ```
   sudo apt-get update
   sudo apt-get -y install apt-transport-https ca-certificates curl software-properties-common
